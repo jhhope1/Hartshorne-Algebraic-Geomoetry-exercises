@@ -1,2 +1,2 @@
 # Hartshorne-Algebraic-Geomoetry-exercises
-Solve hartshorne's Algebraic Geometry exercises
+Solve Hartshorne's Algebraic Geometry exercises
